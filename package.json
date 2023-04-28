@@ -1,0 +1,26 @@
+{
+  "name": "app-for-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csgray/node-app-for-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csgray/node-app-for-actions/issues"
+  },
+  "homepage": "https://github.com/csgray/node-app-for-actions#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "prettier": "^2.8.8"
+  }
+}
